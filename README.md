@@ -1,0 +1,2 @@
+# mini-exercises
+Side project
